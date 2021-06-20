@@ -1,7 +1,7 @@
 # memoryTest
 
-build 
+build <br>
 npm install
 
-run 
+run <br>
 node test.js
